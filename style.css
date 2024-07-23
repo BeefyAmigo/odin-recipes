@@ -1,0 +1,22 @@
+* {
+    background-color: orange;
+}
+.body {
+    font-family: Verdana, Arial, Helvetica;
+}
+.head {
+    text-align: center;
+    font-size: 50px;
+    background-color: yellowgreen;
+}
+img {
+    height: 400px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description {
+    text-align: center;
+    font-size: 24px;
+}
