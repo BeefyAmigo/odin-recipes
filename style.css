@@ -1,6 +1,4 @@
-* {
-    background-color: orange;
-}
+/* macaroni-salad.html */
 .body {
     font-family: Verdana, Arial, Helvetica;
 }
@@ -19,4 +17,28 @@ img {
 .description {
     text-align: center;
     font-size: 24px;
+}
+/* index.html */
+.index {
+    background-color: aqua;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
+.odin-recipes {
+    text-align: center;
+    color: brown;
+    background-color: aliceblue;
+    padding: 10px;
+    margin:  5px 100px 5px 100px;
+}
+.recipe-list a {
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding: 1em 2em;
+    display:inline-block;
+}
+.recipe-list a:hover {
+    background-color: blue;
+    color:white;
 }
